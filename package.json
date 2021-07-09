@@ -1,0 +1,15 @@
+{
+  "name": "xeon-template",
+  "version": "1.0.0",
+  "description": "xeon js default template / startup template",
+  "main": "index.js",
+  "scripts": {
+    "start": "xeon-script start",
+    "prod": "xeon-script start -prod"
+  },
+  "author": "Arif Sardar",
+  "license": "MIT",
+  "dependencies": {
+    "xeonjs": "^1.0.5"
+  }
+}
